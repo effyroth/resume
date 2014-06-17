@@ -1,6 +1,6 @@
 resume
 ======
-####info
+##info
 
     name    :effyroth
     age     :25
@@ -10,7 +10,7 @@ resume
     qq      :85124187
     github  :https://github.com/effyroth
   
-####technology:
+##technology:
 
     java      zookeeper spring kafka flume
     golang    torando scripts wechat_backend
@@ -20,13 +20,13 @@ resume
     database  mysql mongo
     cache     redis
   
-####experiance:
+##experiance:
 
     2013.7 - now    sohu pp backend
     
     2014.3 - now    sohu kuaizhan app push server
   
-####tool:
+##tool:
 
     macbook 
     aws 
@@ -40,7 +40,7 @@ resume
     sublime 
     eclipse
   
-####interesting:
+##interesting:
 
     hadoop 
     mapreduce
