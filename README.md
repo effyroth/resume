@@ -51,5 +51,5 @@ resume
     
 ##additional:
 
-1.[mapreduce join](github.com/effyroth/paper)
+1.[mapreduce join](https://github.com/effyroth/paper)
 
