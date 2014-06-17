@@ -2,13 +2,13 @@ resume
 ======
 ####info
 
-    name:effyroth
-    age:25
-    sexy:man
-    company:sohu
-    gmail:effyroth@gmail.com
-    qq:85124187
-    github:https://github.com/effyroth
+    name    :effyroth
+    age     :25
+    sexy    :man
+    company :sohu
+    gmail   :effyroth@gmail.com
+    qq      :85124187
+    github  :https://github.com/effyroth
   
 ####technology:
 
