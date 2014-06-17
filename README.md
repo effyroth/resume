@@ -1,6 +1,7 @@
 resume
 ======
 ####info
+
   name:effyroth
   age:25
   sexy:man
@@ -10,6 +11,7 @@ resume
   github:https://github.com/effyroth
   
 ####technology:
+
   java      zookeeper spring kafka flume
   golang    torando scripts wechat_backend
   python    nsq martini push_server
@@ -19,14 +21,29 @@ resume
   cache     redis
   
 ####experiance:
+
   2013.7 - now    sohu pp backend
   
   2014.3 - now    sohu kuaizhan app push server
   
 ####tool:
-  macbook aws github maven nginx thrift restful evernote dropbox sublime eclipse
+
+  macbook 
+  aws 
+  github 
+  maven 
+  nginx 
+  thrift 
+  restful 
+  evernote 
+  dropbox 
+  sublime 
+  eclipse
   
 ####interesting:
-  hadoop mapreduce
-  machine learning deep learning
+
+  hadoop 
+  mapreduce
+  machine learning 
+  deep learning
 
