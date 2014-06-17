@@ -22,7 +22,7 @@ resume
     database  mysql mongo
     cache     redis
   
-##experiance:
+##experience:
 
     2013.7 - now    sohu pp backend
     
