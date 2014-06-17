@@ -7,10 +7,10 @@ resume
     sexy        :man
     university  :hust
     company     :sohu
-    paper       :https://github.com/effyroth/paper
+    paper       :[mapreduce join](https://github.com/effyroth/paper)
     gmail       :effyroth@gmail.com
     qq          :85124187
-    github      :https://github.com/effyroth
+    github      :[here](https://github.com/effyroth）
   
 ##technology:
 
