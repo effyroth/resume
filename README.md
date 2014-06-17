@@ -2,13 +2,15 @@ resume
 ======
 ##info
 
-    name    :effyroth
-    age     :25
-    sexy    :man
-    company :sohu
-    gmail   :effyroth@gmail.com
-    qq      :85124187
-    github  :https://github.com/effyroth
+    name        :Gu Zhen (effyroth)
+    age         :25
+    sexy        :man
+    university  :hust
+    company     :sohu
+    paper       :https://github.com/effyroth/paper
+    gmail       :effyroth@gmail.com
+    qq          :85124187
+    github      :https://github.com/effyroth
   
 ##technology:
 
