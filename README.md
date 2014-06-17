@@ -7,10 +7,10 @@ resume
     sexy        :man
     university  :hust
     company     :sohu
-    paper       :[mapreduce join](https://github.com/effyroth/paper)
+    paper       :mapreduce join[1]
     gmail       :effyroth@gmail.com
     qq          :85124187
-    github      :[here](https://github.com/effyroth）
+    github      :github.com/effyroth
   
 ##technology:
 
@@ -48,4 +48,8 @@ resume
     mapreduce
     machine learning 
     deep learning
+    
+##additional:
+
+1.[mapreduce join](github.com/effyroth/paper)
 
