@@ -51,9 +51,9 @@
 # 技能清单
 
 
-以下为我使用的技能
+常用熟悉技能
 
-    java      zookeeper spring kafka flume
+    java      zookeeper spring mybatis kafka flume
     python    torando scripts wechat_backend
     golang    nsq martini push_server
     js        backbone chrome_extension express websocket
