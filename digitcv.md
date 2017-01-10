@@ -11,14 +11,15 @@
  - 工作年限：3年
  - Github: [http://github.com/effyroth](http://github.com/effyroth)
 
- - 期望职位：JAVA高级工程师,项目架构师,项目主R
+ - 期望职位：JAVA资深研发,项目架构师,项目主R
  - 期望城市：北京
 
 ---
 
 # 工作经历
 ## [美团](http://www.meituan.com/) （ 2015年10月 ~  ）
-美团外卖活动优惠券团队技术主R
+美团外卖活动营销优惠券团队资深开发工程师
+一年时间,经历日单量从200W快速增长到1000W的挑战
 
 ## [FitTime](http://rjfittime.com/) （ 2015年3月 ~ 2015年9月 ）
 健身垂直领域创业团队技术负责人
@@ -54,12 +55,12 @@
 常用熟悉技能
 
     java      zookeeper spring mybatis kafka flume
-    python    torando scripts wechat_backend
+    python    torando scripts wechat_backend elasticsearch
     golang    nsq martini push_server
     js        backbone chrome_extension express websocket
     bash      benchwork script
     scala     learning...
-    database  mysql mongo
+    database  mysql mongo databus oss hive
     cache     redis
 
 ---
@@ -70,16 +71,14 @@
 
     idea
     macbook 
-    aws 
-    github 
+    aws digitalocean
+    github gitlab
     maven 
     nginx 
     thrift 
     restful 
-    evernote 
-    dropbox 
-    sublime 
-    eclipse
+    evernote dropbox 
+    sublime
     android studio
 
 ---
