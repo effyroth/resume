@@ -18,8 +18,8 @@
 
 # 工作经历
 ## [搜狗](http://www.sogou.com/) （ 2017年4月 ~  ）
- 营销事业部广告物料平台,项目负责人，技术架构师
- 海量物料存储
+ 营销事业部广告物料平台,项目负责人,技术架构师
+ 海量10亿级别物料存储和管理,团队基础架构建设
  
 ## [美团](http://www.meituan.com/) （ 2015年10月 ~ 2017年4月 ）
  美团外卖优惠券活动营销团队资深开发工程师
@@ -59,14 +59,15 @@
 
 常用熟悉技能
 
-    java      zookeeper spring mybatis kafka flume
+    java      zookeeper spring-boot mybatis kafka flume jdk8
     python    torando scripts wechat_backend elasticsearch
     golang    nsq martini push_server
     js        backbone chrome_extension express websocket
     bash      benchwork script
-    scala     learning...
-    database  mysql mongo databus oss hive
-    cache     redis
+    database  mysql mongo 
+    bigdata   hadoop hbase hive cdh etl
+    data      databus canel
+    cache     redis memcache
 
 ---
 # 工具清单
@@ -78,11 +79,12 @@
     macbook 
     aws digitalocean
     github gitlab
+    confluence evernote
+    xshell
     maven 
     nginx 
     thrift 
     restful 
-    evernote dropbox 
     sublime
     android studio
 
