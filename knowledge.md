@@ -22,6 +22,8 @@ java
         timeout
         reentry
         readwrite
+        乐观
+        悲观
       atomic
         cas
     红黑树
@@ -58,6 +60,11 @@ mysql
       区分度
     transaction
       事务级别
+        未提交读（READ UNCOMMITTED）
+        已提交读（READ COMMITTED）
+        可重复读（REPEATABLE READ）
+        串行化（SERIALIZABLE）
+        数据库默认隔离级别：RR（Repeatable Read，可重复读）
     分库分表
     读写分离
       主从延迟
