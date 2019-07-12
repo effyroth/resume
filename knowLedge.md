@@ -1,22 +1,22 @@
 java
-  jvm
-    gc
-      cms
-      g1
-  spring
-    aop
-    boot
-  mybatis
-    generator
-    xml
-  jdk8
-    stream
-  thread safe
-    synchronize
-    lock
-    atomic
-      cas
-  红黑树
+    jvm
+      gc
+        cms
+        g1
+    spring
+      aop
+      boot
+    mybatis
+      generator
+      xml
+    jdk8
+      stream
+    thread safe
+      synchronize
+      lock
+      atomic
+        cas
+    红黑树
 
 mysql
   btree
