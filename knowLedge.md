@@ -1,4 +1,5 @@
 java
+
     jvm
       gc
         cms
@@ -19,17 +20,18 @@ java
     红黑树
 
 mysql
-  btree
-  index
-    区分度
-  transaction
-    事务级别
-  分库分表
-  读写分离
-    主从延迟
-  ha
-    异地灾备
-  mvcc
+
+    btree
+    index
+      区分度
+    transaction
+      事务级别
+    分库分表
+    读写分离
+      主从延迟
+    ha
+      异地灾备
+    mvcc
   
 cache
   redis
