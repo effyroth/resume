@@ -35,53 +35,55 @@ mysql
   
 cache
 
-  redis
-  memcache
+      redis
+      memcache
 
 linux
 
-  awk
+     awk
 
 bigdata
 
-  hadoop
-  hive
-  hbase
-  cdh
-  flume
-  spark
-  hue
+      hadoop
+      hive
+      hbase
+      cdh
+      flume
+      spark
+      hue
   
 log
 
-  slf4j
+    slf4j
   
 search
 
-  es
-  solr
+      es
+      solr
   
 tracer
 
-  zipkin
+    zipkin
 
 mq
 
-  kafka
+    kafka
 
 
 网关
 
-  nginx
-  spring-cloud-gateway
+      nginx
+      spring-cloud-gateway
 
 架构
 
-  高并发
+    高并发
+    高可用
+    一致性
   
 流程规范
 
-  confluence
-  jira
-  gitlab
+      confluence
+      jira
+      gitlab
   
