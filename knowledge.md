@@ -18,6 +18,7 @@ java
       atomic
         cas
     红黑树
+    容器
 
 mysql
 
@@ -41,6 +42,7 @@ cache
 linux
 
      awk
+     crontab
 
 bigdata
 
@@ -77,10 +79,21 @@ mq
 
 架构
 
+    分布式
+        soa
+        zookeeper
+            curator
+            消息通知
     高并发
     高可用
+        lvs
     一致性
   
+云计算
+    
+    docker
+    kubernates
+    
 流程规范
 
       confluence
