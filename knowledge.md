@@ -16,6 +16,7 @@ java
         sql analyse
     jdk8
       stream
+      lambda
     thread safe
       synchronize
       lock
