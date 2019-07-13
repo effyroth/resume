@@ -140,6 +140,7 @@ mq
             At least once：最少一次，消息不会丢失，可能会重复
             Exactly once：只且一次，消息不丢失不重复，只且消费一次（0.11中实现，仅限于下游也是kafka）
         幂等性
+    rabbitmq
 
 网关
 
