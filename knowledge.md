@@ -53,6 +53,7 @@ web
     servlet
     session
     token
+    飞冰
     
 rpc
     
@@ -72,10 +73,15 @@ mysql
         数据库默认隔离级别：RR（Repeatable Read，可重复读）
     分库分表
     读写分离
+      master slave
       主从延迟
     ha
       异地灾备
     mvcc
+    binlog
+        databus
+        canal
+        offset
   
 cache
 
@@ -101,6 +107,8 @@ bigdata
         内存
         延迟计算
       hue
+      oozie
+      sqoop
   
 log
 
