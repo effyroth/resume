@@ -5,6 +5,10 @@ java
         cms
         g1
             region
+      tool
+        jmap: 生成heapdump文件
+        jstack: 线程dump
+        visualvm: 可视化分析
     spring
       aop
         proxy
