@@ -27,8 +27,8 @@ java
         timeout
         reentry
         readwrite
-        乐观
-        悲观
+        乐观:先执行,后抢锁
+        悲观:先抢锁,后执行
       atomic
         cas
     红黑树
@@ -80,6 +80,7 @@ mysql
 cache
 
       redis
+        分布式缩
       memcache
 
 linux
@@ -93,9 +94,12 @@ bigdata
       hadoop
       hive
       hbase
+        行存储
       cdh
       flume
       spark
+        内存
+        延迟计算
       hue
   
 log
@@ -116,26 +120,48 @@ tracer
 mq
 
     kafka
-
+        topic
+            patition
+                replica
+                segment
+                hash
+        consumer group
+            offset
+        消息投递语义
+            At most once：最多一次，消息可能会丢失，但不会重复
+            At least once：最少一次，消息不会丢失，可能会重复
+            Exactly once：只且一次，消息不丢失不重复，只且消费一次（0.11中实现，仅限于下游也是kafka）
+        幂等性
 
 网关
 
       nginx
       spring-cloud-gateway
+        鉴权
+        授权
+        限流
+        路由
 
 架构
 
-    分布式
-        soa
-        zookeeper
-            curator
-            消息通知
+    扩展性
+        分布式
+            无状态
+            soa
+            zookeeper
+                curator
+                消息通知
     高并发
+        缓存
     高可用
         lvs
+        降级
+        重试
     一致性
         paxos
+        事务
     限流
+        令牌桶
     降级
         histrix
   
@@ -156,6 +182,8 @@ mq
 tool
     
     idea
+    datagrip
+    xshell
     
 爬虫
     
