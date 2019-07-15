@@ -86,7 +86,9 @@ mysql
 cache
 
       redis
-        分布式缩
+        分布式锁
+            redlock
+            setnx
       memcache
 
 linux
@@ -158,6 +160,10 @@ mq
             无状态
             soa
             zookeeper
+                临时节点
+                    ha
+                顺序节点
+                    lock
                 curator
                 消息通知
     高并发
