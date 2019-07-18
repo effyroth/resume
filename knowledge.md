@@ -26,6 +26,8 @@ java
       lock
         timeout
         reentry
+            fair：先排队
+            unfair：先抢
         readwrite
         乐观:先执行,后抢锁
         悲观:先抢锁,后执行
