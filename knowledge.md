@@ -64,6 +64,7 @@ rpc
 mysql
 
     btree
+        N叉树，节点大小一个磁盘扇区
     index
       区分度
     transaction
